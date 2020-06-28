@@ -1,8 +1,11 @@
-# Die Maus - Kika Wissen 
+# Die Maus - Kika Wissen  [](https://de.wikipedia.org/wiki/Die_Sendung_mit_der_Maus)
+
+________________________________________________________________________________________________________
 
 Bei den sogenannten Lachgeschichten handelt es sich um kurze Bildergeschichten, Zeichentrickfilme oder Realtrickfilme. 
 
 ## Inhalt 
+________________________________________________________________________________________________________
 
 * Kinderlieder, 
 * filmische Umsetzungen von Gedichten (beispielsweise fünfter sein von Ernst Jandl, 
@@ -12,3 +15,4 @@ Einige Folgen von Janoschs Traumstunde liefen zunächst in der Sendung mit der M
 
 
 ![Die Maus und der Elefant](/images/Die_Sendung_mit_der_Maus_Logo.svg)
+
