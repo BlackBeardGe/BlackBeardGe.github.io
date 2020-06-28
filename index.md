@@ -1,4 +1,4 @@
-# Die Maus - Kika Wissen  [](https://de.wikipedia.org/wiki/Die_Sendung_mit_der_Maus)
+# Die Maus - Kika Wissen  ![wikipedia](https://de.wikipedia.org/wiki/Die_Sendung_mit_der_Maus)
 
 ________________________________________________________________________________________________________
 
@@ -14,5 +14,4 @@ ________________________________________________________________________________
 Einige Folgen von Janoschs Traumstunde liefen zunächst in der Sendung mit der Maus. Eine Lachgeschichte dauert in etwa 5 Minuten und hat immer eine „runde“, in sich abgeschlossene Handlung. 
 
 
-![Die Maus und der Elefant](/images/Die_Sendung_mit_der_Maus_Logo.svg)
-
+![Die Maus und der Elefant](/images/Wdr_maus.jpg)
